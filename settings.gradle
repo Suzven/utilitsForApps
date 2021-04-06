@@ -1,0 +1,3 @@
+include ':heghelpli'
+include ':app'
+rootProject.name = "utilitsForApps"
